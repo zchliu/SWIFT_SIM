@@ -1,0 +1,46 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Sat Oct 19 07:49:03 2024
+[*]
+[dumpfile] "/home/lzc/work/CECS-Lab/simulator/waveform.vcd"
+[dumpfile_mtime] "Fri Oct 18 12:15:15 2024"
+[dumpfile_size] 4145802
+[savefile] "/home/lzc/work/CECS-Lab/simulator/arbiter.gtkw"
+[timestart] 0
+[size] 1908 999
+[pos] -206 -110
+*-4.000000 37 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.CPU.
+[sst_width] 259
+[signals_width] 256
+[sst_expanded] 1
+[sst_vpaned_height] 500
+@28
+TOP.clk[0]
+@22
+TOP.CPU.axi_arbiter_inst.r_crt[2:0]
+@28
+TOP.CPU.axi_arbiter_inst.d_rvalid[0]
+TOP.CPU.axi_arbiter_inst.i_rvalid[0]
+TOP.CPU.axi_arbiter_inst.arready[0]
+TOP.CPU.axi_arbiter_inst.rvalid[0]
+TOP.CPU.axi_arbiter_inst.rlast[0]
+@200
+-
+@28
+TOP.CPU.axi_arbiter_inst.i_rready[0]
+TOP.CPU.axi_arbiter_inst.i_rlast[0]
+TOP.CPU.axi_arbiter_inst.d_rready[0]
+TOP.CPU.axi_arbiter_inst.d_rlast[0]
+@22
+TOP.CPU.axi_arbiter_inst.arlen[7:0]
+@28
+TOP.CPU.axi_arbiter_inst.arsize[2:0]
+TOP.CPU.axi_arbiter_inst.arvalid[0]
+@22
+TOP.CPU.axi_arbiter_inst.araddr[31:0]
+@29
+TOP.CPU.axi_arbiter_inst.rready[0]
+[pattern_trace] 1
+[pattern_trace] 0

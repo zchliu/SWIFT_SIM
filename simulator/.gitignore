@@ -1,0 +1,10 @@
+*.*
+*
+!*/
+!Makefile
+!*.gtkw
+!*.[cSh]
+!*.sv
+!.gitignore
+!README.md
+/build

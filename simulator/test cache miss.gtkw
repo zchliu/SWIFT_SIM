@@ -1,0 +1,47 @@
+[*]
+[*] GTKWave Analyzer v3.3.104 (w)1999-2020 BSI
+[*] Tue Nov  5 03:09:22 2024
+[*]
+[dumpfile] "/home/lzc/work/CECS-Lab/simulator/waveform.vcd"
+[dumpfile_mtime] "Tue Nov  5 03:02:59 2024"
+[dumpfile_size] 3130337
+[savefile] "/home/lzc/work/CECS-Lab/simulator/test cache miss.gtkw"
+[timestart] 0
+[size] 1908 999
+[pos] -1 -1
+*-6.000000 426 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] TOP.
+[treeopen] TOP.CPU.
+[sst_width] 267
+[signals_width] 278
+[sst_expanded] 1
+[sst_vpaned_height] 292
+@28
+TOP.CPU.DCache_inst.clk[0]
+@22
+TOP.CPU.DCache_inst.total_dcache_read_access[31:0]
+TOP.CPU.DCache_inst.total_dcache_read_miss[31:0]
+@24
+TOP.CPU.DCache_inst.state[1:0]
+TOP.CPU.DCache_inst.next_state[1:0]
+@28
+TOP.CPU.DCache_inst.rvalid[0]
+TOP.CPU.DCache_inst.rvalid_pipe[0]
+TOP.CPU.DCache_inst.wvalid[0]
+TOP.CPU.DCache_inst.wvalid_pipe[0]
+TOP.CPU.DCache_inst.uncached
+TOP.CPU.DCache_inst.req_buf_we[0]
+TOP.CPU.DCache_inst.fence_valid_pipe[0]
+TOP.CPU.DCache_inst.cache_hit
+@24
+TOP.CPU.DCache_inst.total_dcache_write_access[31:0]
+TOP.CPU.DCache_inst.total_dcache_write_miss[31:0]
+@29
+TOP.CPU.DCache_inst.dcache_miss[0]
+[pattern_trace] 1
+[pattern_trace] 0
+!100000@@
+?"2
+@25
+TOP.CPU.ICache_inst.state[1:0]
+!!

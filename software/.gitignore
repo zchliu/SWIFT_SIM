@@ -1,0 +1,11 @@
+*.*
+*
+!*/
+!Makefile
+!*.[cSh]
+!.gitignore
+!Makefile
+!README.md
+/build
+/mytest
+/verilatortest

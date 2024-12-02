@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "tool.h": "c",
+        "paddr.h": "c",
+        "difftest-def.h": "c",
+        "cpu.h": "c",
+        "dev.h": "c",
+        "sstream": "cpp",
+        "regex": "cpp",
+        "array": "c",
+        "string": "c",
+        "string_view": "c",
+        "ranges": "c",
+        "span": "c",
+        "thread": "c",
+        "base.h": "c",
+        "stdint.h": "c",
+        "bitset": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "valarray": "c",
+        "fs.h": "c",
+        "common.h": "c",
+        "stdbool.h": "c",
+        "trap.h": "c",
+        "files.h": "c",
+        "proc.h": "c"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/g++",
+    "search.useIgnoreFiles": false,
+    "C_Cpp.errorSquiggles": "disabled"
+}
