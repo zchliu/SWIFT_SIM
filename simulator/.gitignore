@@ -7,4 +7,4 @@
 !*.sv
 !.gitignore
 !README.md
-/build
+/build/**
