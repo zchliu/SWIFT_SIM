@@ -4,6 +4,9 @@
 !Makefile
 !*.gtkw
 !*.[cSh]
+!*.cpp
+!*.ld
+!*.mk
 !*.sv
 !.gitignore
 !README.md

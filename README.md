@@ -65,7 +65,7 @@ Contains directories for software development and testing, with multiple submodu
 
 ## Prerequisites
 
-The following tools and languages are required to work with this repository:
+The following tools are required to work with this repository:
 
 ### Tools
 1. **Verilator**: A fast and free Verilog simulator.  

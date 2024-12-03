@@ -3,6 +3,9 @@
 !*/
 !Makefile
 !*.[cSh]
+!*.cpp
+!*.ld
+!*.mk
 !.gitignore
 !Makefile
 !README.md
