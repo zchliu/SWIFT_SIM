@@ -68,7 +68,8 @@ Contains directories for software development and testing, with multiple submodu
 The following tools are required to work with this repository:
 
 ### Tools
-1. **Verilator**: A fast and free Verilog simulator.  
+1. **Verilator**: A fast and free Verilog simulator.
+   The version of Verilator installed via APT is too old and does not support SystemVerilog. You need to compile and install the latest version from source.  
    Installation guide: [https://verilator.org/guide/latest/install.html](https://verilator.org/guide/latest/install.html)
 
 2. **GTKWave**: A waveform viewer for signal tracing.  
@@ -130,3 +131,4 @@ sudo apt install libreadline-dev
 ### License
 
 This project is licensed under the MIT License.
+
