@@ -1,0 +1,3 @@
+[submodule "simulator/IP/divide"]
+	path = simulator/IP/divide
+	url = git@github.com:zchliu/SRT4_Div.git

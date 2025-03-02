@@ -78,9 +78,6 @@ The following tools are required to work with this repository:
 3. **RISC-V Toolchain**: `riscv-unknown-linux-gnu` compiler for building RISC-V binaries.  
    Installation guide: [https://github.com/riscv-collab/riscv-gnu-toolchain](https://github.com/riscv-collab/riscv-gnu-toolchain)
 
-4. **x86 GCC**: GCC compiler for x86 platforms.  
-   Installation guide: [https://gcc.gnu.org/install/](https://gcc.gnu.org/install/)
-
 ### Libraries
 
 To run simulations, the following libraries need to be installed:
